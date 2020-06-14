@@ -1,6 +1,7 @@
 # GameProjects
 
 My simple game project
+*It is advisable to open screenshots in a new tab to see them in full size.*
 
 **Solar**
 
