@@ -10,6 +10,7 @@ This is a simple simulation of the solar system, where there is a minimap and th
 **Roller Arcade**
 
 This is a game where a player plays a rolling ball whose task is to collect coins that give points and move away from enemies.The game also has 2 levels.
+Added on Google Play: https://play.google.com/store/apps/details?id=com.AlexanderBogatko.RollerArcade
 
 **Box Shooter**
 
